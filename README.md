@@ -37,6 +37,11 @@
 
 ![Add Secert](https://s1.ax1x.com/2020/09/15/wcCRvn.png)
 
+
+
+
+
+
 |Name|Value|示例|
 | :-----| :---- | :---- |
 |`DEPT_TEXT`|`学院-专业-班级`|`理学院-应用物理学-应物1901`|
